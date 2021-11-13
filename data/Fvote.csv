@@ -1,4 +1,4 @@
-gender_female,gender_male,region_Chungcheung,region_Honam,region_Others,region_Sudo,region_Youngnam,edu,income,age,score_gov,score_progress,score_intention,vote,parties
+gender_female,gender_male,region_Cungcheung,region_Honam,region_Others,region_Sudo,region_Youngnam,edu,income,age,score_gov,score_progress,score_intention,vote,parties
 0,1,0,0,0,0,1,3,3,3,2,2,4.0,1,2
 0,1,0,0,1,0,0,2,3,3,2,4,3.0,0,3
 0,1,0,1,0,0,0,1,2,4,1,3,2.8,1,4
